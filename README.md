@@ -1,4 +1,4 @@
-# Nome do produto
+# Delivery
 > Descrição curta sobre o que seu projeto faz.
 
 [![NPM Version][npm-image]][npm-url]
